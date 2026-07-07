@@ -6,6 +6,10 @@ export const siteConfig = {
   defaultImage: '/images/img1.png',
   naverVerificationCode: '',
   googleVerificationCode: '',
+  company: '희망티켓',
+  phone: '01094691051',
+  sms: '01094691051',
+  kakao: 'http://qr.kakao.com/talk/zrNCO4F1ucxqNV7PA9CStjIJt3A-',
   floatingButtons: {
     phone: 'tel:01094691051',
     sms: 'sms:01094691051',
