@@ -1,0 +1,14 @@
+---
+import BaseLayout from '../layouts/BaseLayout.astro';
+import { siteConfig } from '../../site.config.js';
+---
+
+<BaseLayout title="소개" description={`${siteConfig.siteName} 소개 페이지입니다.`} canonicalPath="/about/">
+  <section class="page-heading">
+    <p class="eyebrow">About</p>
+    <h1>소개</h1>
+    <p class="lead">{siteConfig.siteName}은 Markdown으로 글을 관리하고 정적 HTML로 배포하는 빠른 블로그입니다.</p>
+  </section>
+  <p>운영자, 브랜드, 블로그의 주제와 신뢰 정보를 이곳에 작성하세요.</p>
+  <div class="ad-slot">프로필 링크 또는 뉴스레터 CTA 영역</div>
+</BaseLayout>

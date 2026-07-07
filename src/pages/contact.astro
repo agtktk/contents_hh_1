@@ -1,0 +1,14 @@
+---
+import BaseLayout from '../layouts/BaseLayout.astro';
+import { siteConfig } from '../../site.config.js';
+---
+
+<BaseLayout title="문의" description={`${siteConfig.siteName} 문의 페이지입니다.`} canonicalPath="/contact/">
+  <section class="page-heading">
+    <p class="eyebrow">Contact</p>
+    <h1>문의</h1>
+    <p class="lead">협업, 제휴, 정정 요청은 아래 연락처를 통해 보내주세요.</p>
+  </section>
+  <p>이메일: <a href="mailto:hello@example.com">hello@example.com</a></p>
+  <div class="ad-slot">문의 폼 또는 CTA 영역</div>
+</BaseLayout>
