@@ -190,10 +190,16 @@ const pageTitle = title === siteConfig.siteName ? title : `${title} | ${siteConf
         background: #f2f4f7;
       }
 
-      .post-image-link img,
-      .hero-image {
+      .post-image-link img {
         aspect-ratio: 16 / 9;
         object-fit: cover;
+        width: 100%;
+      }
+
+      .hero-image {
+        border-radius: 8px;
+        height: auto;
+        margin-bottom: 28px;
         width: 100%;
       }
 
