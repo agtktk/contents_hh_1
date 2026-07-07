@@ -5,7 +5,7 @@ slug: "content-usage-fee-cash"
 date: "2026-07-07"
 category: "결제수단"
 tags: ["콘텐츠이용료현금", "정보이용료현금화", "현금화", "결제수단"]
-image: "/images/sample.jpg"
+image: "/images/콘텐츠이용료현금이란 개념과 주의사항.png"
 ---
 
 # 콘텐츠이용료현금이란? 개념과 주의사항  

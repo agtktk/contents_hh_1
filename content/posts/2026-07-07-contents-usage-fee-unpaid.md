@@ -5,7 +5,7 @@ slug: "contents-usage-fee-unpaid"
 date: "2026-07-07"
 category: "결제정보"
 tags: ["컨텐츠이용료미납", "컨텐츠이용료", "정보이용료", "결제정책", "미납"]
-image: "/images/sample.jpg"
+image: "/images/컨텐츠이용료미납.png"
 ---
 
 # 컨텐츠이용료 미납 시 주의사항과 해결 방법
