@@ -1,6 +1,6 @@
 export const siteConfig = {
   siteName: '컨텐츠이용료현금화 희망티켓',
-  siteUrl: 'https://example.com',
+  siteUrl: 'https://contents-hh-1.pages.dev',
   siteDescription: '컨텐츠이용료현금 컨텐츠이용료미납 컨텐츠이용료현금화 콘텐츠용료현금 콘텐츠이용료현금화 콘텐츠이용료미납 정보이용료미납  정보이용료현금 정보이용료현금화 희망티켓',
   author: '희망티켓 010-9469-1051',
   defaultImage: '/images/img1.png',
