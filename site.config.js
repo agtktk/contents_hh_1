@@ -4,7 +4,7 @@ export const siteConfig = {
   siteDescription: '컨텐츠이용료현금 컨텐츠이용료미납 컨텐츠이용료현금화 콘텐츠용료현금 콘텐츠이용료현금화 콘텐츠이용료미납 정보이용료미납  정보이용료현금 정보이용료현금화 희망티켓',
   author: '희망티켓 010-9469-1051',
   defaultImage: '/images/img1.png',
-  naverVerificationCode: '',
+  naverVerificationCode: '50df130791023b97bdfa4b2f33a0188dafe91481',
   googleVerificationCode: '',
   company: '희망티켓',
   phone: '01094691051',
