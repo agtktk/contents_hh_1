@@ -1,7 +1,7 @@
 export const siteConfig = {
   siteName: '컨텐츠이용료현금화 희망티켓',
   siteUrl: 'https://contents-hh-1.pages.dev',
-  siteDescription: '컨텐츠이용료현금 컨텐츠이용료미납 컨텐츠이용료현금화 콘텐츠용료현금 콘텐츠이용료현금화 콘텐츠이용료미납 정보이용료미납  정보이용료현금 정보이용료현금화 희망티켓',
+  siteDescription: '콘텐츠·정보이용료 현금화 및 미납 해결 전문 희망티켓! 365일 신속하고 안전한 서비스를 제공합니다.',
   author: '희망티켓 010-9469-1051',
   defaultImage: '/images/img1.png',
   naverVerificationCode: '50df130791023b97bdfa4b2f33a0188dafe91481',
